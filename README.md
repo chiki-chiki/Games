@@ -5,8 +5,8 @@
 - C#
 
 ## プロジェクトの概要
-1分で遊べるブラウザゲーム。
-ゲーム一覧　→　[Unityroom](https://unityroom.com/users/gb07akzwfdi92unmhlt8)
+- 1分で遊べるブラウザゲーム。
+- ゲーム一覧　→　[Unityroom](https://unityroom.com/users/gb07akzwfdi92unmhlt8)
 
 ## タイトル別リポジトリ
 - [CretaceousWalk](https://github.com/chiki-chiki/CretaceousWalk)
